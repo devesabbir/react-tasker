@@ -18,5 +18,5 @@ Currently, two official plugins are available:
 - [x] Add a Task
 - [x] Edit a Task
 - [x] Mark a Task as Favorite
-- [ ] Search Tasks
-- [ ] Show no Tasks
+- [x] Search Tasks
+- [x] Show no Tasks
