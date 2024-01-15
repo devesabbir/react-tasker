@@ -1,9 +1,15 @@
+import Footer from "./components/Footer/Footer";
+import HeroSection from "./components/HeroSection/HeroSection";
+import Navbar from "./components/Navbar/Navbar";
+import TaskBoard from "./components/Task/TaskBoard/TaskBoard";
+
 function App() {
   return (
     <>
-      <div className="h-[100vh] flex justify-center items-center">
-        <p className="text-center text-3xl text-red-600">Project</p>
-      </div>
+      <Navbar />
+      <HeroSection />
+      <TaskBoard />
+      <Footer />
     </>
   );
 }

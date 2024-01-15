@@ -6,3 +6,17 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+### Features List
+
+- [x] Have a Header
+- [x] Have a Footer
+- [x] Have a Hero Section
+- [x] List the Tasks
+- [x] Delete a Task
+- [x] Delete All Tasks
+- [x] Add a Task
+- [x] Edit a Task
+- [x] Mark a Task as Favorite
+- [ ] Search Tasks
+- [ ] Show no Tasks
